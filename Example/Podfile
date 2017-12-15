@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QZLCategoryKit_Example' do
+  pod 'QZLCategoryKit', :path => '../'
+
+  target 'QZLCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
