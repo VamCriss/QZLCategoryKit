@@ -1,0 +1,22 @@
+{
+  "name": "QZLCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of QZLCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luohao/QZLCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luohao": "luohao@icourt.cc"
+  },
+  "source": {
+    "git": "https://github.com/luohao/QZLCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QZLCategoryKit/Classes/**/*"
+}

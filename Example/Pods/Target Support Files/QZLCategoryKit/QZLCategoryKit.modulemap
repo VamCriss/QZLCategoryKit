@@ -1,0 +1,6 @@
+framework module QZLCategoryKit {
+  umbrella header "QZLCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
